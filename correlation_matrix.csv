@@ -1,0 +1,7 @@
+,distance_km,shipment_volume_kg,delivery_time_hrs,transport_cost_usd,cost_per_kg,on_time
+distance_km,1.0,-0.02,0.7,0.42,0.34,-0.27
+shipment_volume_kg,-0.02,1.0,-0.01,0.04,-0.3,-0.02
+delivery_time_hrs,0.7,-0.01,1.0,-0.2,-0.11,-0.34
+transport_cost_usd,0.42,0.04,-0.2,1.0,0.72,0.05
+cost_per_kg,0.34,-0.3,-0.11,0.72,1.0,0.03
+on_time,-0.27,-0.02,-0.34,0.05,0.03,1.0

@@ -1,0 +1,5 @@
+transport_mode,shipments,avg_distance,avg_delivery_hrs,avg_cost,avg_cost_per_kg,on_time_rate
+Air,284,753.969,6.922,3516.24,10.61,0.958
+Rail,395,752.059,22.4,585.579,1.899,0.838
+Road,1134,752.985,19.143,806.145,2.577,0.831
+Sea,187,769.208,31.372,405.57,1.241,0.69

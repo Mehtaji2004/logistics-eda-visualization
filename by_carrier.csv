@@ -1,0 +1,5 @@
+carrier,shipments,avg_distance,avg_delivery_hrs,avg_cost,avg_cost_per_kg,on_time_rate
+EcoFreight,489,747.543,19.001,1088.032,3.468,0.828
+FastTrack,499,761.511,19.353,1078.047,3.685,0.85
+PrimeCargo,497,766.882,19.389,1162.171,3.35,0.839
+SwiftMove,515,742.204,19.037,1111.328,3.336,0.831
