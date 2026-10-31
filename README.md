@@ -69,6 +69,7 @@ pip install -r requirements.txt
 
 # 4. Run the analysis
 python analysis.py
+python generate_report.py
 ```
 
 The script prints EDA results to the terminal and saves all charts in the `charts/` folder.
