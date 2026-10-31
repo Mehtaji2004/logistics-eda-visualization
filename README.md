@@ -118,3 +118,11 @@ This project is for educational and internship evaluation purposes.
 ---
 
 *Built with Python, pandas, NumPy, Matplotlib, Seaborn, and SciPy.*
+
+
+
+
+
+
+
+So this wass all : ) .
